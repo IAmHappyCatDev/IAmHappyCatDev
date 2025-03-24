@@ -22,12 +22,12 @@
 
 ![](https://img.shields.io/badge/Cloud-Azure-cornflowerblue?style=for-the-badge)
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Glock113&show_icons=true&theme=github_dark_dimmed)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=IAmHappyCatDev&show_icons=true&theme=github_dark_dimmed)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Glock113&show_icons=true&theme=github_dark_dimmed)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=IAmHappyCatDev&show_icons=true&theme=github_dark_dimmed)
 
 <!--
-**Glock113/Glock113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**IAmHappyCatDev/IAmHappyCatDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
